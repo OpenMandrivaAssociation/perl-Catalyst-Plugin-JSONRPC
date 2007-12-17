@@ -23,7 +23,6 @@ BuildRequires:	perl(Catalyst) >= 5.6
 BuildRequires:	perl(JSON) >= 1
 BuildRequires:	perl(Test::More) >= 0.32
 BuildArch:	noarch
-Buildroot:	%{_tmppath}/%{name}-buildroot
 
 %description
 Catalyst::Plugin::JSONRPC is a Catalyst plugin to add JSON-RPC methods
