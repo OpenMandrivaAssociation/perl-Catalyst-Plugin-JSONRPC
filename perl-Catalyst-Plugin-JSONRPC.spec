@@ -3,7 +3,7 @@
 
 %define version	0.01
 
-%define	rel	3
+%define	rel	4
 %define release	%mkrel %rel
 
 Summary:	Dispatch JSON-RPC methods with Catalyst
